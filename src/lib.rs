@@ -1,0 +1,1 @@
+//! `differences` — reserved. comparisons between recorded states — counts, receipts, task histories — rendered as reproducible difference reports, the comparison layer over task_history. This 0.0.1 holds the name; the first working release follows.

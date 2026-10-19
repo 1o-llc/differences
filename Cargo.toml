@@ -1,0 +1,11 @@
+[package]
+name = "differences"
+version = "0.0.1"
+edition = "2021"
+rust-version = "1.56"
+authors = ["James Hunt <james@1o.business>"]
+license = "MIT OR Apache-2.0"
+description = "Reserved: comparisons between recorded states — counts, receipts, task histories — rendered as reproducible difference reports, the comparison layer over task_history. The first working release follows; nothing in 0.0.1 is usable yet."
+repository = "https://github.com/1o-llc/differences"
+keywords = ["1o", "history", "changes"]
+categories = ["development-tools"]
